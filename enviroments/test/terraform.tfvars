@@ -1,0 +1,5 @@
+location            = "northeurope"
+resource_group_name = "RG_TEST_MAIN"
+vnet_name           = "VM-TEST-APP-vnet"
+subnet_name         = "SUBNET_IAAC_GW"
+appgw_name          = "GW_IAAC_TEST"
